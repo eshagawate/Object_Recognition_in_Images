@@ -1,4 +1,4 @@
-# Object_Recognition_in_Images
+# Object_Recognition_in_Images (CNN)
 
 The repository provides scripts and notebooks for training a CNN-based model for object recognition. 
 
